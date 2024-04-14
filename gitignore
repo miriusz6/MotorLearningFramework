@@ -1,0 +1,11 @@
+Assignment2-1/Library/
+Assignment2-1/Temp/
+Assignment2-1/Obj/
+Assignment2-1/Logs/
+Assignment2-1/UserSettings/
+Assignment2-1/Assets/AssetStoreTools*
+Assignment2-1/[Aa]ssets/[Aa]ddressable[Aa]ssets[Dd]ata/*/*.bin*
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
+
